@@ -56,23 +56,12 @@
                                         >
                                             Delete
                                         </button>
-                                        <button
-                                            type="button"
-                                            class="btn btn-primary m-1"
-                                        >
-                                            <router-link
-                                                to="/"
-                                                class="text-white text-decoration-none"
-                                            >
-                                                Details
-                                            </router-link>
-                                        </button>
                                     </td>
                                 </tr>
                             </tbody>
                             <tbody v-else>
                                 <tr>
-                                    <td colspan="4" align="center">
+                                    <td colspan="11" align="center">
                                         No Camps Found.
                                     </td>
                                 </tr>

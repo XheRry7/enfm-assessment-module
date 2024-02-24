@@ -19,6 +19,7 @@
                                     <th>unitCode</th>
                                     <th>UnitType</th>
                                     <th>Parent Id</th>
+                                    <th>Actions</th>
                                 </tr>
                             </thead>
                             <tbody v-if="units.length > 0">
@@ -43,23 +44,12 @@
                                         >
                                             Delete
                                         </button>
-                                        <button
-                                            type="button"
-                                            class="btn btn-primary m-1"
-                                        >
-                                            <router-link
-                                                to="/"
-                                                class="text-white text-decoration-none"
-                                            >
-                                                Details
-                                            </router-link>
-                                        </button>
                                     </td>
                                 </tr>
                             </tbody>
                             <tbody v-else>
                                 <tr>
-                                    <td colspan="4" align="center">
+                                    <td colspan="5" align="center">
                                         No Units Found.
                                     </td>
                                 </tr>

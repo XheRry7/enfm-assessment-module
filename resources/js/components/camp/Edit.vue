@@ -148,7 +148,7 @@ export default {
                         telephoneNumber,
                         campBoss,
                         emailId,
-                        totalfloors,
+                        totalFloors,
                     } = response.data;
                     this.camp.company = company;
                     this.camp.campName = campName;
@@ -159,7 +159,7 @@ export default {
                     this.camp.telephoneNumber = telephoneNumber;
                     this.camp.campBoss = campBoss;
                     this.camp.emailId = emailId;
-                    this.camp.totalfloors = totalfloors;
+                    this.camp.totalfloors = totalFloors;
                 })
                 .catch((error) => {
                     console.log(error);

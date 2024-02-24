@@ -55,7 +55,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
                   telephoneNumber = _response$data.telephoneNumber,
                   campBoss = _response$data.campBoss,
                   emailId = _response$data.emailId,
-                  totalfloors = _response$data.totalfloors;
+                  totalFloors = _response$data.totalFloors;
                 _this.camp.company = company;
                 _this.camp.campName = campName;
                 _this.camp.campCode = campCode;
@@ -65,7 +65,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
                 _this.camp.telephoneNumber = telephoneNumber;
                 _this.camp.campBoss = campBoss;
                 _this.camp.emailId = emailId;
-                _this.camp.totalfloors = totalfloors;
+                _this.camp.totalfloors = totalFloors;
               })["catch"](function (error) {
                 console.log(error);
               });
