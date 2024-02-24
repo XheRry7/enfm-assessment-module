@@ -21,6 +21,8 @@ npm run dev
 npm run watch
 
 # ScreenShots
+![7](https://github.com/XheRry7/enfm-assessment-module/assets/94928680/94fbe645-7f7a-444a-a053-889a55a62b1c)
+![8](https://github.com/XheRry7/enfm-assessment-module/assets/94928680/ba7dd5e7-a04b-4e7a-8dc9-f403ae0ee0bc)
 ![6](https://github.com/XheRry7/enfm-assessment-module/assets/94928680/38b78cb6-62a0-42b4-817e-70952ac1a6ba)
 ![5](https://github.com/XheRry7/enfm-assessment-module/assets/94928680/3a22c0fb-f28c-41a3-9020-af889dff34a5)
 ![4](https://github.com/XheRry7/enfm-assessment-module/assets/94928680/68160a12-2749-4ef6-8911-efbda93bf748)
